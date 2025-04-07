@@ -1,0 +1,28 @@
+{
+    "siteTitle": "SweetLeaves",
+    "heroTitle": "Premium Organic Cannabis Products",
+    "heroSubtitle": "Lab-Tested • THC/CBD Balanced • Sustainably Grown",
+    "contactEmail": "support@sweetleaves.com",
+    "menuItems": [
+        {
+            "text": "Shop",
+            "url": "#",
+            "specialClass": ""
+        },
+        {
+            "text": "About",
+            "url": "#",
+            "specialClass": ""
+        },
+        {
+            "text": "Blog",
+            "url": "#",
+            "specialClass": ""
+        },
+        {
+            "text": "Pay with Bitcoin",
+            "url": "#",
+            "specialClass": "bitcoin-payment"
+        }
+    ]
+}
