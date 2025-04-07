@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Organic CBD Oil",
+        "price": "49.99",
+        "image": "assets/images/product1.jpg",
+        "description": "Full-spectrum CBD oil with natural terpenes"
+    },
+    {
+        "name": "THC Gummies",
+        "price": "29.99",
+        "image": "assets/images/product2.jpg",
+        "description": "Delicious 10mg THC fruit gummies"
+    },
+    {
+        "name": "Premium Flower",
+        "price": "59.99",
+        "image": "assets/images/product3.jpg",
+        "description": "Top-shelf organic cannabis flower"
+    }
+]
